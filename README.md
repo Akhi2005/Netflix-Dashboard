@@ -3,7 +3,7 @@
 
 This repository showcases an interactive Tableau dashboard that visualizes Netflix movies and TV shows data. The dashboard provides insights into the production countries, IMDb scores, genres, release trends, and more.
 
-https://public.tableau.com/views/NetflixDashboard_17322164874920/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/akhilesh.koorma/viz/NetflixDashboard_17322164874920/NetflixDashboard?publish=yes
 
 ## Dashboard Features
 
