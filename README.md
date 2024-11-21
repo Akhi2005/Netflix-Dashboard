@@ -1,4 +1,4 @@
-# Netflix-Dashboard
+
 # Netflix Movies and TV Shows Dashboard
 
 This repository showcases an interactive Tableau dashboard that visualizes Netflix movies and TV shows data. The dashboard provides insights into the production countries, IMDb scores, genres, release trends, and more.
